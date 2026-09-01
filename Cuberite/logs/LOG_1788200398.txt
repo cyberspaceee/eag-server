@@ -1,0 +1,31 @@
+     [18:19:58] --- Started Log ---
+     [18:19:58] Cuberite Jenkins x86_64-linux-gnu -DCMAKE_BUILD_TYPE=Release (master) (id: #378)
+     [18:19:58] from commit eda440e0db028587975c867dbacb513d80df4dca built at: Mon Aug 21 11:55:04 UTC 2023
+     [18:19:58] Creating new server instance...
+     [18:19:58] Reading server config...
+     [18:19:58] Starting server...
+Info [18:19:58] Compatible clients: 1.8.x-1.14.4
+Warn [18:19:58] WARNING: There is not a Proxy Forward Secret set up, and any proxy server can forward a player to this server unless closed from the internet.
+     [18:19:58] Loaded 789 crafting recipes
+Warn [18:19:58] Cannot open file "Protocol/1.13/base.recipes.txt", no recipe book recipes will be available!
+     [18:19:58] Loaded 1.12.2 380 recipe book
+Warn [18:19:58] Cannot open file "Protocol/1.14.4/base.recipes.txt", no recipe book recipes will be available!
+     [18:19:58] Loaded 67 furnace recipes and 66 fuels
+     [18:19:58] Loaded 49 brewing recipes
+Warn [18:19:58] Failed to load scoreboard from "world/data/scoreboard.dat": basic_ios::clear: iostream error
+Warn [18:19:58] Invalid biome ("BambooJungle") specified in AllowedBiomes in cubeset file Prefabs/SinglePieceStructures/JungleTemple.cubeset. Skipping the biome.
+Warn [18:19:58] Invalid biome ("BambooJungleHills") specified in AllowedBiomes in cubeset file Prefabs/SinglePieceStructures/JungleTemple.cubeset. Skipping the biome.
+Warn [18:19:58] Failed to load scoreboard from "world_nether/data/scoreboard.dat": basic_ios::clear: iostream error
+Warn [18:19:58] Failed to load scoreboard from "world_the_end/data/scoreboard.dat": basic_ios::clear: iostream error
+     [18:19:58] -- Loading Plugins --
+     [18:19:58] Cannot load plugin, folder "Core" not found.
+     [18:19:58] Cannot load plugin, folder "ChatLog" not found.
+     [18:19:58] -- No Plugins Loaded --
+     [18:19:59] Preparing spawn (world): 2.75% (11/400; 10.70 chunks / sec)
+     [18:20:00] Preparing spawn (world): 65.00% (260/400; 244.36 chunks / sec)
+Warn [18:20:01] World "world_the_end": Did not find an acceptable spawnpoint. Generated a random spawnpoint position at {0, 71, 0}
+     [18:20:01] Startup complete, took 3322ms!
+     [18:24:35] Shutting down server...
+     [18:24:35] Cleaning up...
+     [18:24:35] Shutdown successful!
+     [18:24:35] --- Stopped Log ---

@@ -1,0 +1,61 @@
+     [15:49:48] --- Started Log ---
+     [15:49:48] Cuberite Jenkins x86_64-linux-gnu -DCMAKE_BUILD_TYPE=Release (master) (id: #378)
+     [15:49:48] from commit eda440e0db028587975c867dbacb513d80df4dca built at: Mon Aug 21 11:55:04 UTC 2023
+     [15:49:48] Creating new server instance...
+     [15:49:48] Reading server config...
+     [15:49:48] Starting server...
+Info [15:49:48] Compatible clients: 1.8.x-1.14.4
+Warn [15:49:48] WARNING: There is not a Proxy Forward Secret set up, and any proxy server can forward a player to this server unless closed from the internet.
+     [15:49:48] Loaded 789 crafting recipes
+Warn [15:49:48] Cannot open file "Protocol/1.13/base.recipes.txt", no recipe book recipes will be available!
+     [15:49:48] Loaded 1.12.2 380 recipe book
+Warn [15:49:48] Cannot open file "Protocol/1.14.4/base.recipes.txt", no recipe book recipes will be available!
+     [15:49:48] Loaded 67 furnace recipes and 66 fuels
+     [15:49:48] Loaded 49 brewing recipes
+Warn [15:49:48] Failed to load scoreboard from "world/data/scoreboard.dat": basic_ios::clear: iostream error
+Warn [15:49:48] Invalid biome ("BambooJungle") specified in AllowedBiomes in cubeset file Prefabs/SinglePieceStructures/JungleTemple.cubeset. Skipping the biome.
+Warn [15:49:48] Invalid biome ("BambooJungleHills") specified in AllowedBiomes in cubeset file Prefabs/SinglePieceStructures/JungleTemple.cubeset. Skipping the biome.
+Warn [15:49:48] Failed to load scoreboard from "world_nether/data/scoreboard.dat": basic_ios::clear: iostream error
+Warn [15:49:48] Failed to load scoreboard from "world_the_end/data/scoreboard.dat": basic_ios::clear: iostream error
+     [15:49:48] -- Loading Plugins --
+     [15:49:48] Cannot load plugin, folder "Core" not found.
+     [15:49:48] Cannot load plugin, folder "ChatLog" not found.
+     [15:49:48] -- No Plugins Loaded --
+     [15:49:49] Preparing spawn (world_nether): 74.25% (297/400; 283.40 chunks / sec)
+Warn [15:49:50] World "world_the_end": Did not find an acceptable spawnpoint. Generated a random spawnpoint position at {0, 71, 0}
+     [15:49:50] Startup complete, took 2074ms!
+     [15:52:39] A player connected through a proxy without requiring a forwarding secret. If open to the internet, this is very insecure!
+     [15:52:39] Player "TotalyNotADev" (fe37e4a515f03685a976e33e1eb3f29c) save or statistics file not found, resetting to defaults
+Info [15:52:39] Player TotalyNotADev has joined the game
+Warn [15:52:39] AddEntity: Entity at 0x7597100156b0 (cPlayer, ID 96) spawning in a non-existent chunk.
+     [16:00:04] Executing console command: "help"
+     [16:00:04] chunkstats      - Displays detailed chunk memory statistics
+     [16:00:04] destroyentities - Destroys all entities in all worlds
+     [16:00:04] help            - Shows the available commands
+     [16:00:04] load            - Adds and enables the specified plugin
+     [16:00:04] reload          - Reloads all plugins
+     [16:00:04] reloadweb       - Reloads the webadmin configuration
+     [16:00:04] restart         - Restarts the server cleanly
+     [16:00:04] stop            - Stops the server cleanly
+     [16:00:04] unload          - Disables the specified plugin
+     [16:00:14] Executing console command: "op TotallyNotADev"
+     [16:00:14] Unknown command, type 'help' for all commands.
+     [16:21:02] Executing console command: "/op TotallyNotADev"
+     [16:21:02] Unknown command, type 'help' for all commands.
+Info [16:22:25] Player TotalyNotADev has left the game
+     [16:30:05] Executing console command: "op TotallyNotADev"
+     [16:30:05] Unknown command, type 'help' for all commands.
+     [16:30:11] Executing console command: "help"
+     [16:30:11] chunkstats      - Displays detailed chunk memory statistics
+     [16:30:11] destroyentities - Destroys all entities in all worlds
+     [16:30:11] help            - Shows the available commands
+     [16:30:11] load            - Adds and enables the specified plugin
+     [16:30:11] reload          - Reloads all plugins
+     [16:30:11] reloadweb       - Reloads the webadmin configuration
+     [16:30:11] restart         - Restarts the server cleanly
+     [16:30:11] stop            - Stops the server cleanly
+     [16:30:11] unload          - Disables the specified plugin
+     [16:33:01] A player connected through a proxy without requiring a forwarding secret. If open to the internet, this is very insecure!
+     [16:33:01] Player "Operator" (c56edac611343a46a76a95dc980838f5) save or statistics file not found, resetting to defaults
+Info [16:33:01] Player Operator has joined the game
+Warn [16:33:01] AddEntity: Entity at 0x7597100ba6d0 (cPlayer, ID 313) spawning in a non-existent chunk.

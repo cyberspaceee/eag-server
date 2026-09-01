@@ -1,0 +1,24 @@
+{
+	"DataVersion" : 2566,
+	"stats" : 
+	{
+		"custom" : 
+		{
+			"climb_one_cm" : 754,
+			"cuberite:achievement.mineWood" : 6,
+			"cuberite:achievement.openInventory" : 5,
+			"damage_dealt" : 255,
+			"damage_taken" : 600,
+			"deaths" : 2,
+			"drop" : 12,
+			"fall_one_cm" : 32968,
+			"leave_game" : 1,
+			"mob_kills" : 2,
+			"play_one_minute" : 35401,
+			"sprint_one_cm" : 23545,
+			"time_since_death" : 801,
+			"walk_on_water_one_cm" : 563,
+			"walk_one_cm" : 27105
+		}
+	}
+}

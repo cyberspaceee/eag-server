@@ -1,3 +1,4 @@
-&6Welcome to the Cuberite test server!
-&6https://cuberite.org/
-&6Type /help for all commands
+&b&lEAGLERCRAFT X
+&7A cozy survival server
+&6Build, explore, and hang out
+&8discord.gg/yourserver
